@@ -1,2 +1,2 @@
-# mc
+# minecraft
 小薯條
